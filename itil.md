@@ -34,7 +34,7 @@ Avantage, vision généraliste.
 * Comme un actif          -- humain / financier
 
 
-#### Les cliens reçoivent 3 types de Fournisseurs de service
+#### Les clients reçoivent 3 types de Fournisseurs de service
 
 * Fournisseur de services internes  ( même org que le client )
 * Unités de services partagé        (   )
@@ -56,6 +56,7 @@ et des risques liés.
 
 
 ## ITIL V3: 4 CONCEPTS
+
  * Les bonnes pratiques. 
  * La gestion de services. 
  * Les processus et les fonctions.
