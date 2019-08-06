@@ -119,3 +119,18 @@ Un processus est mesurable, c’est-à-dire qu’il comporte des indicateurs qui
 * Vérifier que le personnel a reçu la formation adéquate au processus
 * Faire l'interface avec la hiérarchie.
 
+Le propriétaire de processus est la personne qui est A (accountable) sur le processus. Le propriétaire de processus va être responsable de la définition du processus, garant de sa mise en œuvre et veiller à son amélioration. Il est responsable de la réalisation des objectifs du processus.
+
+* Définit avec le gestionnaire de services le périmètre de son processus et bâtit ensuite la stratégie initiale du processus et de sa mise en œuvre. 
+* Définit les directives et les standards à appliquer.
+* Nomme le gestionnaire de processus. 
+* Garant que les rôles définis sur le processus ont des acteurs identifiés. 
+* Garant que la documentation sur le processus est correcte, à jour, et disponible pour les personnes concernées.
+* Garant du choix des indicateurs clés de mesure (KPI, Key Performance Indicators). Ces indicateurs sont très importants car ils vont permettre de mesurer les performances du processus en termes de progression, conformité, efficacité et efficience. 
+* Suit ces indicateurs, et analyse les tableaux de bord produits par le gestionnaire de son processus.
+* Est en charge de toute la communication autour de son processus, que ce soit vers les autres propriétaires de processus, vers la direction de l’informatique ou vers toutes les personnes directement ou indirectement concernées via des programmes de sensibilisation.
+* Gère donc toutes les problématiques qui pourraient entraver la bonne exécution de son processus. 
+* Effectue régulièrement des audits de vérification de l’efficacité de son processus et identifie des propositions d’amélioration qu’il négociera avec le gestionnaire des services.
+* Garant de l’existence d’un document intitulé. Plan d’amélioration du processus.
+* Revoit la stratégie définie pour son processus sur une base annuelle
+
