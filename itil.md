@@ -134,3 +134,47 @@ Le propriétaire de processus est la personne qui est A (accountable) sur le pro
 * Garant de l’existence d’un document intitulé. Plan d’amélioration du processus.
 * Revoit la stratégie définie pour son processus sur une base annuelle
 
+
+Rappel des caractéristiques d'un processus
+* Mesurables
+* Résultats spécifiques
+* Livrables au client
+* Répondre à un évènement spécifique.
+
+Mesurable :  Le processus peut être mesuré de manière appropriée. Il est motivé par les prestations. Les managers peuvent mesurer le coût, la qualité et d’autres variables alors que les utilisateurs s’intéressent à la durée et à la productivité.
+Résultats spécifiques :  Le résultat doit être individuellement identifiable et dénombrable. Il est impossible de savoir combien de services ont été rendus, bien qu’il soit possible de dénombrer les changements.
+Livrables aux clients :  Chaque processus livre ses résultats primaires à un client ou à une partie prenante. Ils peuvent être internes ou externes à l’organisation mais le processus doit satisfaire leurs attentes.
+Répondre à un évènement spécifique :  Un processus doit être traçable par un déclencheur spécifique, bien qu’il puisse être continu ou itératif.
+## Structure organisationelle 
+
+* Fonction 
+ * Concept logique qui s'applique aux intervenants et aux mesures automatiqés qui executent un processus prédéfini, une activité ou une combinaison de processus ou d'activités
+ *Rôle 
+  * C'est une ensemble de comportement ou d'actions reliés qui sont réalisés par une personnen une quipe ou un
+  groupe dans un contexte spécifique
+  
+  * Groupe 
+   * C'est un ensemble de personnes qui d'une personnes qui d'une certaines façon sitb identiques et réalisent des activites similaires
+   La Fonction  La fonction est une unité organisationnelle qui a ses ressources et ses moyens propres, responsable de la production d’un résultat. Les ressources et les moyens sont nécessaires à la production et la bonne performance de ce résultat. Une fonction est en fait une équipe avec un chef à sa tête.  Une fonction, à l’instar d’un processus, assure une ou plusieurs activités relatives à un ou plusieurs processus.
+Le rôle  Un rôle est un ensemble de responsabilités et de domaines d’autorité attribués à une personne ou à une équipe. Un rôle est défini dans un processus ou une fonction. Une personne ou une équipe peuvent endosser plusieurs rôles.
+
+ ### Strucuture organisationnele 2
+ * Equipe
+ ensemble de personne réuni sous forme de groupe plus officiel
+ * Département
+  * C'est une structure organisationnelle officielle chargés de réaliser un ensemble spécifique d'activité sur une base actuelle
+  * Division
+   * C'est un nb Département
+   
+   ### Le modème Raci
+   Pur aider au recensement des différents role sur une activité
+   (Responsable Accountable Consulted Informed )
+   * Responsable (Réalisateur)
+    * La ou les personnes qui réalisent  l'acticité
+    * Accountable
+    La personne responsable pour une activité
+    * consulted (consulté)
+    les opinions sont prises en compte
+    * Informed (informé)
+    personnes tenues informés
+ Division
