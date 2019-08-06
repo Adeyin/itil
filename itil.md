@@ -19,4 +19,7 @@ Avantage, vision généraliste.
 * L’Amélioration Continue des Services (Continual Service Impovement - CSI)
 
 ####  It est devenue une valeur en elle même. 
+( refarcturation au client )
+#### IT permet de nouvelle formes d'entreprendre
+-> redéfinition des business models.
 
