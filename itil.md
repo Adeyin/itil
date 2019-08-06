@@ -167,16 +167,40 @@ Le rôle  Un rôle est un ensemble de responsabilités et de domaines d’aut
    * C'est un nb Département
    
    ### Le modème Raci
-   Pur aider au recensement des différents role sur une activité
-   (Responsable Accountable Consulted Informed )
-   * Responsable (Réalisateur)
-   * * La ou les personnes qui réalisent  l'acticité
-    * Accountable
+  Pour aider au recensement des différents role sur une activité
+  (Responsable Accountable Consulted Informed )
+  * Responsable (Réalisateur)
+ La ou les personnes qui réalisent  l'acticité
+ * Accountable (imputable ,approuve)
     
-    La personne responsable pour une activité
-    * consulted (consulté)
+La personne responsable pour une activité
+* consulted (consulté)
     
-    les opinions sont prises en compte
-    * Informed (informé)
-    personnes tenues informés
- Division
+les opinions sont prises en compte
+* Informed (informé)
+ personnes tenues informés
+Division
+
+### Cycle de vie des services
+voir tableau
+
+
+###  Exploitation:
+4 fonctions
+Centre de service
+gestions des operations
+Gestion technique
+Gestions des applications
+
+
+#### Stratégie de service
+
+ * La stratégie est une vision à long terme d'une organisation ou service
+
+* La phase de stratégie, de services est le coeur de l'approche cycle de vie définie dans la démarche ITIL
+
+* Elle ca aider les départements informatiques à penser et à agir de manière stratégiques en prenant en compte
+la stratégie de l'entreprise. 
+
+
+
