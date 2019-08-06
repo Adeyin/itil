@@ -47,13 +47,19 @@ et des risques liés.
 #### IT est un facilitateur pour les processus business et non un but en soi.
  * -> facilitation business
  
-#### Les clients des IT exigent maintenant des Services Informatiques qui soutiennt leur processus métier. 
-
+### fonction
+#### Les clients des IT exigent maintenant des Services Informatiques qu'ils soutiennent leur processus métier ( Business ) en permanence 
 #### IT doit prévoir des modifications de demande
 #### Les fournisseurs en interne risquent une externalisation de leur service et sont obligés de le maitriser comme une véritable entreprise
 
 ---
 
+
+## ITIL V3: 4 CONCEPTS
+ * Les bonnes pratiques. 
+ * La gestion de services. 
+ * Les processus et les fonctions.
+ * Le cycle de vie des services.
 
 
 
