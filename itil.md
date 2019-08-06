@@ -27,7 +27,7 @@ Avantage, vision généraliste.
 
 ---
 
-It peut changer de sens en fonction du contexte:
+##### It peut changer de sens en fonction du contexte:
 * Comme une organsiation  -- unité interne , fct()Entreprise fct()Fournisser
 * Comme un Composant     -- composant de systeme
 * Comme un service        -- Type de srvice partagé par les BU (Business Unit)
