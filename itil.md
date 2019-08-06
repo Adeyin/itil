@@ -62,6 +62,12 @@ et des risques liés.
  * Les processus et les fonctions.
  * Le cycle de vie des services.
 
+#### ITIL apporte au niveau d'une organisation informatique:
+* une language commun à toute l'organisation
+* Une intégration des processus et des fonctions de l'organisation
+* Une justification business de chaque processus et activité informatique
+* Des conseilssur les meilleurs pratiques (Best practice) pour réaliser une gestion efficace et efficiente des services informatiques dans le respect des engagements de niveau de service (SLA)
+
 
 
 
