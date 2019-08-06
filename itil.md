@@ -170,10 +170,12 @@ Le rôle  Un rôle est un ensemble de responsabilités et de domaines d’aut
    Pur aider au recensement des différents role sur une activité
    (Responsable Accountable Consulted Informed )
    * Responsable (Réalisateur)
-    * La ou les personnes qui réalisent  l'acticité
+   * * La ou les personnes qui réalisent  l'acticité
     * Accountable
+    
     La personne responsable pour une activité
     * consulted (consulté)
+    
     les opinions sont prises en compte
     * Informed (informé)
     personnes tenues informés
