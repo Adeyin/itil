@@ -43,5 +43,12 @@ It peut changer de sens en fonction du contexte:
 #### Les Services sont le moyens qui permettent de créer de la valeur aux client
 en leur fournissant les résultats souhaités sans s'approprier des couts specifiques 
 et des risques liés.
+.
+#### IT est un facilitateur pour les processus business et non un but en soi.
+ * -> facilitation business
+ 
+#### Les clients des IT exigent maintenant des Services Informatiques qui soutiennt leur processus métier. 
 
-#### IT est un facilitateur pour les processus business et non un but en soit.
+#### IT doit prévoir des modifications de demande
+#### Les fournisseurs en interne risquent une externalisation de leur service et sont obligés de le maitriser comme une véritable entreprise
+
