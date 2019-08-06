@@ -25,3 +25,23 @@ Avantage, vision généraliste.
 #### IT permet de nouvelle formes d'entreprendre
 -> redéfinition des business models.
 
+---
+
+It peut changer de sens en fonction du contexte:
+* Comme une organsiation  -- unité interne , fct()Entreprise fct()Fournisser
+* Comme un Composant     -- composant de systeme
+* Comme un service        -- Type de srvice partagé par les BU (Business Unit)
+* Comme un actif          -- humain / financier
+
+
+#### Les cliens reçoivent 3 types de Fournisseurs de service
+
+* Fournisseur de services internes  ( même org que le client )
+* Unités de services partagé        (   )
+* Service externe                   ( org différentes )
+
+#### Les Services sont le moyens qui permettent de créer de la valeur aux client
+en leur fournissant les résultats souhaités sans s'approprier des couts specifiques 
+et des risques liés.
+
+#### IT est un facilitateur pour les processus business et non un but en soit.
