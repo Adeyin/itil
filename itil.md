@@ -6,6 +6,8 @@
 Est un ensemble de publications sur les meilleurs pratiques de gestion de services informatiques
 Avantage, vision généraliste. 
 
+---
+
  ### histoire: 
  * itil v1 1988
  * itil v2 2001 - composé de 9 livres dont 2 ont ueu un succès : SERVICE SUPPORT - SERVICE DELIVERY
