@@ -103,7 +103,19 @@ Le mot gestion intègre la planification, la mise en œuvre et l’optimisation 
 *  A des cleints ou des parties prenantes
 * Pouvant être mesuré
 
-> Les bonnes pratiques ITIL sont basées comme d’autres démarches sur une approche basée sur des processus.
+Les bonnes pratiques ITIL sont basées comme d’autres démarches sur une approche basée sur des processus.
 Un processus est une suite structurée d’activités inter-reliées qui permet d’atteindre un but. Un processus est mesurable, il produit des résultats pour un client et réagit à des éléments déclencheurs spécifiques.
 Un processus traite une ou plusieurs entrées définies et la (ou les) transforme en résultats (sortie). Un processus peut inclure la définition des rôles, des responsabilités, des outils et contrôles de gestion nécessaires à la fourniture de résultats de manière fiable. Un processus peut définir des politiques, des standards, des principes, des activités, des procédures et des modes opératoires si c’est nécessaire.
 Un processus est mesurable, c’est-à-dire qu’il comporte des indicateurs qui vont mesurer sa performance. Un processus doit mesurer son efficacité et son efficience. L’efficacité, c’est l’atteinte d’un but. L’efficience, ce sont les moyens que le processus va mettre en œuvre pour atteindre son but et la qualité du résultat obtenu.
+
+* les tâches du propriétaire du processus :
+* Garant de la bonne exécution des tâches
+* Docuement et publier le processus
+* Définir les indicateruus clés de performance (KPI)
+* Réviser les KPI et prendre les mesures nécéssaires
+* Responsable de la conception du processus
+* Améliorer l'efficacité, et l'efficience du processus
+* Aborder tous les problèmes relatifs en fonctionnement du processus
+* Vérifier que le personnel a reçu la formation adéquate au processus
+* Faire l'interface avec la hiérarchie.
+
