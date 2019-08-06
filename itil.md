@@ -52,3 +52,9 @@ et des risques liés.
 #### IT doit prévoir des modifications de demande
 #### Les fournisseurs en interne risquent une externalisation de leur service et sont obligés de le maitriser comme une véritable entreprise
 
+---
+
+
+
+
+
