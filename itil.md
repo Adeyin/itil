@@ -11,7 +11,7 @@ Avantage, vision généraliste.
  ### histoire: 
  * itil v1 1988
  * itil v2 2001 - composé de 9 livres dont 2 ont ueu un succès : SERVICE SUPPORT - SERVICE DELIVERY
- * itil v3 2007 - 2011 - composé de 5 livres
+ * itil v3 2007 - 2011 - composé de 5 livres (22 processus ? )
  
 #### Les 5 livres principaux sont : 
 * La Stratégie de Services (Service Strategy - SS) 
@@ -63,11 +63,17 @@ et des risques liés.
  * Le cycle de vie des services.
 
 #### ITIL apporte au niveau d'une organisation informatique:
+
 * une language commun à toute l'organisation
 * Une intégration des processus et des fonctions de l'organisation
 * Une justification business de chaque processus et activité informatique
-* Des conseilssur les meilleurs pratiques (Best practice) pour réaliser une gestion efficace et efficiente des services informatiques dans le respect des engagements de niveau de service (SLA)
+* Des conseils sur les meilleurs pratiques (Best practice) pour réaliser une gestion efficace et efficiente des services informatiques dans le respect des engagements de niveau de service (SLA)
+* -> Cette dernière phrase, via la syntaxe , peut indiquer,  une demande certification V3 lors de proposition de poste.
 
 
-
+####Les bénéfices de la mise en oeuvre de ITIL V3 sont :
+* Infrastructure informatique et services plus stables
+* Organisations businessplus compétitives
+* Perception des utilisateurs et clients améliorée
+* Meilleurs temps de mise sur le marché
 
